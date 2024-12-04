@@ -1,0 +1,115 @@
+namespace CarrelloLista
+{
+    public partial class Form1 : Form
+    {
+        //Prodotto(string id, string modello, string marca, double prezzo)
+        Carrello c;
+        int conta = 0;
+        Prodotto p1 = new Prodotto("01", "formaggio piemontese", "ratatouille", 25.98);
+        Prodotto p2 = new Prodotto("02", "formaggio milanese", "cracco", 125.52);
+        Prodotto p3 = new Prodotto("03", "formaggio marocchino", "yassin", 4.999);
+        public Form1()
+        {
+            InitializeComponent();
+            c = new Carrello("c1");
+            //c.aggiungiProdotto(p);
+            //c.rimuoviProdotto(p);
+            //c.svuotaProdotti();
+        }
+
+        private void aggiungi_Click(object sender, EventArgs e)
+        {
+            if (comboBox1 == null)
+                return;
+            Prodotto p = new Prodotto("0001", comboBox1.Text, "yassin", 4.999);
+            foreach (Prodotto n in c.Lista)
+            {
+                if (ListaCarrello.Contains(n))
+                {
+
+                }
+            }
+            //Prodotto p = new Prodotto("0001", textBox1.Text, "yassin", 4.999);
+            
+            c.aggiungiProdotto(p);
+            conta++;
+            ListaCarrello.Items.Add(p.Modello);
+            //textBox1.Text = "";
+            //lblPrezzo.Text += p.Prezzo;
+            //comboBox1.SelectedIndex = 0;
+            Console.WriteLine("aggiungi", conta);
+
+        }
+
+        private void rimuovi_Click(object sender, EventArgs e)
+        {
+            if (comboBox1.Text == "")
+                return;
+
+            if (conta > 0)
+            {
+                Prodotto p = new Prodotto(comboBox1.Text, "modello", "marca", 2);
+                c.rimuoviProdotto(p);
+                //pictureBox1.Visible = true;
+                //pictureBox2.Visible = false;
+
+                conta--;
+                //textBox1.Text = $"Hai {conta} prodotti nel carrello.";
+                if (comboBox1.Text != "")
+                {
+                    //MessageBox.Show("E' stato rimosso un prodotto.");
+                    ListaCarrello.Items.Remove(comboBox1.Text);
+                    comboBox1.Text = "";
+                    Console.WriteLine("rimosso", conta);
+                }
+                Console.WriteLine("rimosso", conta);
+            }
+            else
+            {
+                MessageBox.Show("non puoi rimuovere il prodotto! (non ce ne sono)");
+                Console.WriteLine("rimosso", conta);
+            }
+        }
+
+        private void svuota_Click(object sender, EventArgs e)
+        {
+            c.svuotaProdotti();
+            //pictureBox1.Visible = true;
+            //pictureBox2.Visible = false;
+
+            conta = 0;
+            //textBox1.Text = $"Hai {conta} prodotti nel carrello.";
+            if (ListaCarrello.Items.Count == 0)
+            {
+                //MessageBox.Show("E' gia' vuota.");
+                Console.WriteLine("svuota", conta);
+            }
+            else
+            {
+                Console.WriteLine("svuota", conta);
+                ListaCarrello.Items.Clear();
+                MessageBox.Show("E' stato svuotato il carrello.");
+            }
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblPrezzo_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
