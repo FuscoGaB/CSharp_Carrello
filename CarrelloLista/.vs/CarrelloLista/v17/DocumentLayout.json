@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fusco.22376\\source\\repos\\CarrelloLista\\",
+  "WorkspaceRootPath": "C:\\Users\\fusco.22376\\Desktop\\CSharp_Carrello\\CarrelloLista\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AB9E9BA-4E67-49CC-AD47-13E8EA217B51}|CarrelloLista\\CarrelloLista.csproj|c:\\users\\fusco.22376\\source\\repos\\carrellolista\\carrellolista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2AB9E9BA-4E67-49CC-AD47-13E8EA217B51}|CarrelloLista\\CarrelloLista.csproj|solutionrelative:carrellolista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AB9E9BA-4E67-49CC-AD47-13E8EA217B51}|CarrelloLista\\CarrelloLista.csproj|c:\\users\\fusco.22376\\source\\repos\\carrellolista\\carrellolista\\carrello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AB9E9BA-4E67-49CC-AD47-13E8EA217B51}|CarrelloLista\\CarrelloLista.csproj|solutionrelative:carrellolista\\carrello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AB9E9BA-4E67-49CC-AD47-13E8EA217B51}|CarrelloLista\\CarrelloLista.csproj|c:\\users\\fusco.22376\\source\\repos\\carrellolista\\carrellolista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AB9E9BA-4E67-49CC-AD47-13E8EA217B51}|CarrelloLista\\CarrelloLista.csproj|c:\\users\\fusco.22376\\desktop\\csharp_carrello\\carrellolista\\carrellolista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AB9E9BA-4E67-49CC-AD47-13E8EA217B51}|CarrelloLista\\CarrelloLista.csproj|solutionrelative:carrellolista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB9E9BA-4E67-49CC-AD47-13E8EA217B51}|CarrelloLista\\CarrelloLista.csproj|c:\\users\\fusco.22376\\source\\repos\\carrellolista\\carrellolista\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AB9E9BA-4E67-49CC-AD47-13E8EA217B51}|CarrelloLista\\CarrelloLista.csproj|c:\\users\\fusco.22376\\desktop\\csharp_carrello\\carrellolista\\carrellolista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB9E9BA-4E67-49CC-AD47-13E8EA217B51}|CarrelloLista\\CarrelloLista.csproj|solutionrelative:carrellolista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB9E9BA-4E67-49CC-AD47-13E8EA217B51}|CarrelloLista\\CarrelloLista.csproj|c:\\users\\fusco.22376\\desktop\\csharp_carrello\\carrellolista\\carrellolista\\carrello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB9E9BA-4E67-49CC-AD47-13E8EA217B51}|CarrelloLista\\CarrelloLista.csproj|solutionrelative:carrellolista\\carrello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB9E9BA-4E67-49CC-AD47-13E8EA217B51}|CarrelloLista\\CarrelloLista.csproj|c:\\users\\fusco.22376\\desktop\\csharp_carrello\\carrellolista\\carrellolista\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AB9E9BA-4E67-49CC-AD47-13E8EA217B51}|CarrelloLista\\CarrelloLista.csproj|solutionrelative:carrellolista\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,15 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\fusco.22376\\source\\repos\\CarrelloLista\\CarrelloLista\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fusco.22376\\Desktop\\CSharp_Carrello\\CarrelloLista\\CarrelloLista\\Form1.cs",
               "RelativeDocumentMoniker": "CarrelloLista\\Form1.cs",
-              "ToolTip": "C:\\Users\\fusco.22376\\source\\repos\\CarrelloLista\\CarrelloLista\\Form1.cs [Progettazione]",
+              "ToolTip": "C:\\Users\\fusco.22376\\Desktop\\CSharp_Carrello\\CarrelloLista\\CarrelloLista\\Form1.cs [Progettazione]",
               "RelativeToolTip": "CarrelloLista\\Form1.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T07:19:52.45Z",
@@ -43,39 +43,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Carrello.cs",
-              "DocumentMoniker": "C:\\Users\\fusco.22376\\source\\repos\\CarrelloLista\\CarrelloLista\\Carrello.cs",
+              "DocumentMoniker": "C:\\Users\\fusco.22376\\Desktop\\CSharp_Carrello\\CarrelloLista\\CarrelloLista\\Carrello.cs",
               "RelativeDocumentMoniker": "CarrelloLista\\Carrello.cs",
-              "ToolTip": "C:\\Users\\fusco.22376\\source\\repos\\CarrelloLista\\CarrelloLista\\Carrello.cs",
+              "ToolTip": "C:\\Users\\fusco.22376\\Desktop\\CSharp_Carrello\\CarrelloLista\\CarrelloLista\\Carrello.cs",
               "RelativeToolTip": "CarrelloLista\\Carrello.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:24:39.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T07:24:39.153Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Prodotto.cs",
-              "DocumentMoniker": "C:\\Users\\fusco.22376\\source\\repos\\CarrelloLista\\CarrelloLista\\Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\fusco.22376\\Desktop\\CSharp_Carrello\\CarrelloLista\\CarrelloLista\\Prodotto.cs",
               "RelativeDocumentMoniker": "CarrelloLista\\Prodotto.cs",
-              "ToolTip": "C:\\Users\\fusco.22376\\source\\repos\\CarrelloLista\\CarrelloLista\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\fusco.22376\\Desktop\\CSharp_Carrello\\CarrelloLista\\CarrelloLista\\Prodotto.cs",
               "RelativeToolTip": "CarrelloLista\\Prodotto.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:24:29.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T07:24:29.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\fusco.22376\\source\\repos\\CarrelloLista\\CarrelloLista\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fusco.22376\\Desktop\\CSharp_Carrello\\CarrelloLista\\CarrelloLista\\Form1.cs",
               "RelativeDocumentMoniker": "CarrelloLista\\Form1.cs",
-              "ToolTip": "C:\\Users\\fusco.22376\\source\\repos\\CarrelloLista\\CarrelloLista\\Form1.cs",
+              "ToolTip": "C:\\Users\\fusco.22376\\Desktop\\CSharp_Carrello\\CarrelloLista\\CarrelloLista\\Form1.cs",
               "RelativeToolTip": "CarrelloLista\\Form1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T07:22:23.139Z",
               "EditorCaption": ""
